@@ -1,0 +1,4 @@
+*.parquet
+taxi_partitioned/
+__pycache__/
+*.pyc
